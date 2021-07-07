@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Discipline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Discipline_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attestation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Group.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Journal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Specialty_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
